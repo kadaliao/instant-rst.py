@@ -7,7 +7,7 @@ DEFAULT_FILE = os.path.join( os.path.dirname(os.path.realpath(__file__)),'templa
 HOST = "127.0.0.1"
 PORT = 5000
 URL =  "http://127.0.0.1:5000"
-BROWSER = 'firefox'
+BROWSER = ''
 SECRET = 'JO34h#F*$HFHA@#&('
 
 FLASK_STATIC_FOLDER = os.path.join( os.path.dirname(os.path.realpath(__file__)),'static')
